@@ -148,7 +148,7 @@ html_code = f"""<!DOCTYPE html>
         </div>
 
         <div class="seo-keywords">
-            PAT Unlock chuyên cung cấp giải pháp mở mạng quốc tế vĩnh viễn cho các dòng iPhone Lock từ Mỹ (AT&T, T-Mobile, Verizon, Sprint, Spectrum, Xfinity) và Nhật Bản (Softbank, Docomo, AU KDDI). Dịch vụ hỗ trợ iPhone 11, 12, 13, 14, 15, 16 Pro Max. Cam kết Whitelisting trực tiếp trên Server nhà mạng, sử dụng ổn định mọi App ngân hàng 2026, ví điện tử, sóng 5G căng đét, Reset và Restore thoải mái không lo bị khóa lại. Giải pháp Unlock IMEI uy tín từ xa 100% không giữ máy.
+            PAT Unlock chuyên cung cấp giải pháp mở mạng quốc tế vĩnh viễn cho các dòng iPhone Lock từ Mỹ (AT&T, T-Mobile, Verizon, Sprint, Spectrum, Xfinity) và Nhật Bản (Softbank, Docomo, AU KDDI). Dịch vụ hỗ trợ iPhone 11, 12, 13, 14, 15, 16, 17. Cam kết Whitelisting trực tiếp trên Server nhà mạng, sử dụng ổn định mọi App ngân hàng 2026, ví điện tử, sóng 5G căng đét, Reset và Restore thoải mái không lo bị khóa lại. Giải pháp Unlock IMEI uy tín từ xa 100% không giữ máy.
         </div>
 
         <footer>
