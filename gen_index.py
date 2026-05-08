@@ -30,6 +30,7 @@ html_code = f"""<!DOCTYPE html>
     
     <meta name="google-site-verification" content="MA_XAC_MINH_CUA_GOOGLE" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/jpeg" href="pat-logo.jpg">
     <style>
         :root {{
             --bg-color: #0d1117;
