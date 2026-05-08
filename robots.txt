@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://projectxmaker.github.io/pat-unlock/sitemap.xml
